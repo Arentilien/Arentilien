@@ -2,7 +2,8 @@
 <h1 align="center"> Hello there, I’m Carlos
 </div>
 
-[![LinkedIn_Page](www.linkedin.com/in/jcarlos-abascal)]
+[![LinkedIn_Page]([www.linkedin.com/in/jcarlos-abascal](https://img.shields.io/badge/LinkedIn?style=flat-square&link=www.linkedin.com%2Fin%2Fjcarlos-abascal
+))]
 
 ## About me
 
