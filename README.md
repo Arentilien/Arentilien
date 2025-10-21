@@ -1,14 +1,15 @@
-## Hi there 👋
+<div align="center">
+<h1 align="center"> Hello there, I’m Carlos
+</div>
 
-<!--
-**Arentilien/Arentilien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn_Page](www.linkedin.com/in/jcarlos-abascal)]
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 Experienced Manager
+- 🌱 Python, SQL and Tableau Developer
+- 👯 Bachelers on Administration and Public policy
+- 🤔 Data Analyst with 3 years of expirience
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
