@@ -2,9 +2,9 @@
 <h1 align="center"> Hello there, I’m Carlos
 </div>
 
-[![LinkedIn_Page]([www.linkedin.com/in/jcarlos-abascal](https://img.shields.io/badge/LinkedIn?style=flat-square&link=www.linkedin.com%2Fin%2Fjcarlos-abascal
+[![LinkedIn_Page](www.linkedin.com/in/jcarlos-abascal](https://img.shields.io/badge/LinkedIn?style=flat-square&link=www.linkedin.com%2Fin%2Fjcarlos-abascal
 ))]
-
+[![GitHub](https://img.shields.io/github/followers/arentilien?style=social)](https://github.com/Arentilien)
 ## About me
 
 - 🔭 Experienced Manager
